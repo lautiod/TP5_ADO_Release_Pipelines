@@ -1,4 +1,4 @@
-# decisiones.md
+# Decisiones del TP5
 
 ## 🧩 Introducción
 En este trabajo implementamos el despliegue de una aplicación completa en **Azure**, utilizando **Azure DevOps** para automatizar la integración y entrega continua (CI/CD).  
