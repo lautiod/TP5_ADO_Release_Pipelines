@@ -28,7 +28,7 @@ Este proyecto implementa y despliega un conjunto de aplicaciones web (backend y 
 
 3. **Despliegue continuo (CD):**  
    - **Pipeline QA:** Despliega automáticamente en el entorno **QA** al hacer merge en `main`.  
-   - **Pipeline PROD:** Se ejecuta **MANUALME** desde Azure DevOps (necesita un aprobarse primero) desplegando a **Producción**.
+   - **Pipeline PROD:** Se ejecuta **MANUALME** desde Azure DevOps (necesita aprobarse primero) desplegando a **Producción**.
 
 <img width="850" height="165" alt="image" src="https://github.com/user-attachments/assets/90c07bef-4b03-4d75-8582-896436e61316" />
 
