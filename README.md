@@ -12,7 +12,6 @@ Este proyecto implementa y despliega un conjunto de aplicaciones web (backend y 
 ### Entorno de Producción
 - **WebApp PROD:**  ->   https://webprod-a8a2dagufte2etd3.canadacentral-01.azurewebsites.net/
 
-> ⚠️ Si las URLs no responden, verificar que los servicios estén activos en el portal de Azure.
 
 ---
 
