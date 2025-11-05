@@ -1,4 +1,4 @@
-# TP Release Pipeline
+# TP5 - Release Pipeline
 
 Este proyecto implementa y despliega un conjunto de aplicaciones web (backend y frontend) en **Azure App Service**, utilizando **pipelines de CI/CD** para automatizar el proceso desde Azure DevOps.
 
