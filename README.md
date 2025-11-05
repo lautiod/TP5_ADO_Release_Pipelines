@@ -52,6 +52,8 @@ Este proyecto implementa y despliega un conjunto de aplicaciones web (backend y 
 
 - *https://dev.azure.com/santiagotricherri/Tricherri-Ojeda-Reyna/_git/Web_Node*
 
+<img width="273" height="323" alt="image" src="https://github.com/user-attachments/assets/c8cab499-6dd7-4169-bfaf-4ab05f6709d2" />
+
 ---
 
 ## ✅ Verificación post-despliegue
@@ -59,6 +61,9 @@ Este proyecto implementa y despliega un conjunto de aplicaciones web (backend y 
 1. Abrir las URLs de QA o PROD.  
 2. Probar las operaciones del CRUD de usuarios.  
 3. Confirmar que la API responde correctamente y los datos se persisten en la base de datos.
+
+<img width="934" height="519" alt="image" src="https://github.com/user-attachments/assets/38eb09b2-75b2-4b78-95d6-fadca87cc7f2" />
+
 
 ---
 
