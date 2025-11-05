@@ -31,14 +31,17 @@ Este proyecto implementa y despliega un conjunto de aplicaciones web (backend y 
    - **Pipeline QA:** Despliega automáticamente en el entorno **QA** al hacer merge en `main`.  
    - **Pipeline PROD:** Se ejecuta **MANUALME** desde Azure DevOps (necesita un aprobarse primero) desplegando a **Producción**.
 
+     <img width="850" height="165" alt="image" src="https://github.com/user-attachments/assets/90c07bef-4b03-4d75-8582-896436e61316" />
+
+
 ---
 
 ## ⚙️ Estructura de entornos en Azure
 
 - **Resource Group:** `rgISW`
 - **WebApps:**
-  - `WebAppPROD`
-  - `WebAppQA` 
+  - `WebPROD`
+  - `WebQA` 
 - **Service Connections:** configuradas en Azure DevOps para ambos entornos.
 
   <img width="900" height="127" alt="image" src="https://github.com/user-attachments/assets/31c555ff-a92f-49ed-909d-d0637e2b67ad" />
